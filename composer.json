@@ -1,5 +1,5 @@
 {
-    "name": "nexilo/xdevapi-php",
+    "name": "nexilo/xdevapi-php-8",
     "type": "library",
     "description": "Low level PHP Library for mysql-xdevapi ",
     "keywords": ["mysql", "api", "xdevapi", "storage", "nosql"],
